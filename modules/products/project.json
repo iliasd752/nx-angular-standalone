@@ -1,0 +1,9 @@
+{
+  "name": "products",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "modules/products/src",
+  "prefix": "soccer-angle",
+  "tags": ["type:feature", "scope:products"],
+  "projectType": "library",
+  "targets": {}
+}
